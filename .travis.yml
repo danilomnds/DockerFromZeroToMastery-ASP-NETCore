@@ -1,4 +1,5 @@
 sudo: required
+os: linux
 dist: bionic
 language: csharp
 mono: none
@@ -15,6 +16,14 @@ deploy:
     docker push $DOCKER_USERNAME/docker-from-zero-to-mastery-dotnet-mysql-db:latest;
     docker push $DOCKER_USERNAME/docker-from-zero-to-mastery-dotnet:latest;
   on:
-    brach: master
+    branch: main
 notifications:  
   email: false
+
+  
+  
+  
+  
+  
+  
+  
