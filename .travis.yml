@@ -16,5 +16,5 @@ deploy:
     docker push $DOCKER_USERNAME/docker-from-zero-to-mastery-dotnet:latest;
   on:
     brach: master
-notifications:
+notifications:  
   email: false
