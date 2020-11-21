@@ -1,3 +1,3 @@
 # Docker from Zero to Mastery
 
-[![Build Status](https://travis-ci.org/leandrocgsi/DockerFromZeroToMastery-ASP-NETCore.svg?branch=master)](https://travis-ci.org/leandrocgsi/DockerFromZeroToMastery-ASP-NETCore)
+[![Build Status](https://travis-ci.org/danilomnds/DockerFromZeroToMastery-ASP-NETCore.svg?branch=main)](https://travis-ci.org/danilomnds/DockerFromZeroToMastery-ASP-NETCore)
